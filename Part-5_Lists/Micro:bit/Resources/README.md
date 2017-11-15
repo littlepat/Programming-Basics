@@ -1,4 +1,4 @@
-# Activity Worksheet: Loops
+# Activity Worksheet: Lists
 
 ## Introduction
 In this project activity you will learn to create and access lists with the micro:bit. This will build upon your pervious skills you have learnt from the previous project activites such as variables, loops and conditional statements.
