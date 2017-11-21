@@ -30,3 +30,12 @@ Lets begin the activity with an introductory function:
 <p align="center">
     <img style="text-align:center" src="../Assets/Functions-2.png" width="40%" height="40%"/>
 </p>
+
+## Part 2: Function with and variables
+In this part we introduce a new type of function: a function which makes use of a variable, and it will change the value of the variable each time it is called.
+
+- [ ] Go to Advanced and from Functions create a new function, let's name it CountMyFruit(fruit)
+- [ ] We calculate the total number of fruit by adding how many fruit we previously had with the total number of pears and apples, so each time we call this function our total number of fruit will increase
+<p align="center">
+    <img style="text-align:center" src="../Assets/Functions-3.png" width="40%" height="40%"/>
+</p>
