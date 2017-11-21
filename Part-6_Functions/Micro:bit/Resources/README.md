@@ -68,17 +68,21 @@ In this part you will learn how to call a function multiple times, such that you
 <p align="center">
     <img style="text-align:center" src="../Assets/Functions-5.png" width="70%" height="70%"/>
 </p>
+
 - [ ] number 3 is displayed, because the default value for our *fruit* variable is set to 0 and our function calcualtes the value of fruit + ( pears + apples ) which is equal to 0 + ( 1 + 2 ) = 3
 - [ ] lets display a blank screen from the **Basic** menu
 - [ ] now call the function again as you did before, this time what number is displayed?
 - [ ] refresh the microbit before you run your code
+
 <p align="center">
     <img style="text-align:center" src="../Assets/Functions-6.png" width="70%" height="70%"/>
 </p>
 <p align="center">
     <img style="text-align:center" src="../Assets/Functions-7.png" width="70%" height="70%"/>
 </p>
+
 - [ ] let's repeat this one more time, do you understand what is happening? Why is the number increasing by 3?
+
 <p align="center">
     <img style="text-align:center" src="../Assets/Functions-8.png" width="70%" height="70%"/>
 </p>
