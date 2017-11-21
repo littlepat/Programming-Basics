@@ -102,6 +102,11 @@ In this part we will make use of the loops and conditionals we used before, to s
 - [ ] we keep the function **CountMyFruit(fruit)** which we previously created and discard everything else
 - [ ] go to **Basic** menu and select **nn button A pressed** box and drag it to the canvas
 - [ ] go to the **Variables** menu and set you variables **pears** to equal 1 and **apples** to equal 2
+
+<p align="center">
+    <img style="text-align:center" src="../Assets/Functions-variables.png" width="70%" height="70%"/>
+</p>
+
 - [ ] now we go to the **Loops** menu and select our **while** loop block
 
 <p align="center">
@@ -118,6 +123,7 @@ In this part we will make use of the loops and conditionals we used before, to s
 </p>
 
 - [ ] let's check the value of the variable to see what number it is, i think it is a 12, am i correct?
+- [ ] refresh the microbit
 - [ ] from the **Logic** menu we select the basic **if** block
 - [ ] from the **Logic** menu again, select the **0 = 0** block and attach it to the **if** instead where the True is
 - [ ] check if fruit = 12 then show leds with a a happy man as shown
@@ -126,3 +132,7 @@ In this part we will make use of the loops and conditionals we used before, to s
 <p align="center">
     <img style="text-align:center" src="../Assets/Functions-11.png" width="70%" height="70%"/>
 </p>
+
+## Part 5: The challenge
+
+
