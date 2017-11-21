@@ -20,5 +20,13 @@ Lets begin the activity with an introductory function:
 - [ ] To get the **message** with the string go to Advanced then go to Text menu and drag the box with quotations
 
 <p align="center">
-    <img style="text-align:center" src="../Assets/Functions-1.png" />
+    <img style="text-align:center" src="../Assets/Functions-1.png" width="20%" height="20%"/>
+</p>
+
+- [ ] To see anything, we now need to call our function
+- [ ] From Input menu drag the On Button A pressed block
+- [ ] Go to Advanced and from Functions drag the Call function Hello block as seen bellow
+
+<p align="center">
+    <img style="text-align:center" src="../Assets/Functions-2.png" width="20%" height="20%"/>
 </p>
