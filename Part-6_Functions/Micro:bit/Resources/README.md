@@ -1,9 +1,12 @@
 # Activity Worksheet: Functions
+
 ## Introduction
+
 In this project activity you will learn how to create and use functions with micro:bit. You will learn why functions are useful, and how to use them together with your previous knowledge.
 This time, please read the instructions carefully, as you will not be shown where the different blocks are lockated, but the instructions will tell you this information.
 
 ## Part 1: Basic Function
+
 Lets begin the activity with an introductory function:
 
 - [ ] Open up a browser and go **[https://makecode.microbit.org](https://makecode.microbit.org)**
@@ -32,6 +35,7 @@ Lets begin the activity with an introductory function:
 </p>
 
 ## Part 2: Function with and variables
+
 In this part we introduce a new type of function: a function which makes use of a variable, and it will change the value of the variable each time it is called.
 
 - [ ] Go to **Advanced** and from **Functions** create a new function, let's name it *CountMyFruit(fruit)*
@@ -53,10 +57,11 @@ In this part we introduce a new type of function: a function which makes use of 
 - [ ] We have now created our first complex function, leave this function here, as we will use it going furthr
 
 ## Part 3: Calling a complex function multiple times
+
 In this part you will learn how to call a function multiple times, such that you do not need to repeat the complex operation. We will make use of operations that we have learned in previous classes.
 
 - [ ] From the **Input** menu select the **on button B pressed** block and drag it to the workspace
-- [ ] Now go to the variables menu and select the **set** item block twice, and for each set **pears** and **apples** variables respectively
+- [ ] Now go to the **Variables** menu and select the **set** item block twice, and for each set **pears** and **apples** variables respectively
 - [ ] Set **pears** to 1 and set **apples** to 2
 - [ ] Here we will call our function and see what happens: go to **Advanced** and then go to **Functions** and select the **call function CountMyFruit(fruit)** and drag it in the block with the other as seen
 
@@ -88,4 +93,27 @@ In this part you will learn how to call a function multiple times, such that you
 </p>
 <p align="center">
     <img style="text-align:center" src="../Assets/Functions-9.png" width="70%" height="70%"/>
+</p>
+
+## Part 4: Using function calls with while loops and if statements
+
+In this part we will make use of the loops and conditionals we used before, to see how everything fits together. We will use the same function from previous section.
+
+- [ ] we keep the function **CountMyFruit(fruit)** which we previously created and discard everything else
+- [ ] go to **Basic** menu and select **nn button A pressed** box and drag it to the canvas
+- [ ] go to the **Variables** menu and set you variables **pears** to equal 1 and **apples** to equal 2
+- [ ] now we go to the **Loops** menu and select our **while** loop block
+
+<p align="center">
+    <img style="text-align:center" src="../Assets/Functions-loops.png" width="70%" height="70%"/>
+</p>
+
+- [ ] from the **Logic** menu we also select the basic **if** block
+
+<p align="center">
+    <img style="text-align:center" src="../Assets/Functions-logic.png" width="70%" height="70%"/>
+</p>
+
+<p align="center">
+    <img style="text-align:center" src="../Assets/Functions-10.png" width="70%" height="70%"/>
 </p>
