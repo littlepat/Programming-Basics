@@ -133,6 +133,13 @@ In this part we will make use of the loops and conditionals we used before, to s
     <img style="text-align:center" src="../Assets/Functions-11.png" width="70%" height="70%"/>
 </p>
 
+- [ ] If you don't see the happy stick man then reset the microbit and try to press button A again
+- [ ] Now stick man should be displayed becasue fruit is indeed equal to 12 if you followed the steps
+
+<p align="center">
+    <img style="text-align:center" src="../Assets/Functions-12.png" width="70%" height="70%"/>
+</p>
+
 ## Part 5: The challenge
 
 
