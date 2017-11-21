@@ -3,7 +3,7 @@
 ## Introduction
 
 In this project activity you will learn how to create and use functions with micro:bit. You will learn why functions are useful, and how to use them together with your previous knowledge.
-This time, please read the instructions carefully, as you will not be shown where the different blocks are lockated, but the instructions will tell you this information.
+This time, please read the instructions carefully, as you will not be shown where all the different blocks are located, but the instructions will tell you this information.
 
 ## Part 1: Basic Function
 
@@ -53,6 +53,7 @@ In this part we introduce a new type of function: a function which makes use of 
 <p align="center">
     <img style="text-align:center" src="../Assets/Functions-3.png" width="70%" height="70%"/>
 </p>
+
 - [ ] From the **basic menu** drag the **show number** block and replace the number with our varaible **fruit** such that it shows in the microbit
 - [ ] We have now created our first complex function, leave this function here, as we will use it going furthr
 
