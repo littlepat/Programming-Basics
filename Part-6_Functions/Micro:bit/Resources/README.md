@@ -10,12 +10,15 @@ Lets begin the activity with an introductory function:
 - [ ] Start a new empty project by clicking on the **Project Menu** and select the **New Project** menu button in the pop-up screen, as you have done in previous lessons
 - [ ] Go to **Advanced** and click on **Functions**
 - [ ] Click on **Make a function** and here you give it the name **Hello**
+
 <p align="center">
     <img style="text-align:center" src="../Assets/Functions-0.png" />
 </p>
+
 - [ ] Our function will display a message, I have chosen "Hi Kids!" but you can choose whatever you would like
 - [ ] To get the **show string** block go to Basic menu and drag it inside the function
 - [ ] To get the **message** with the string go to Advanced then go to Text menu and drag the box with quotations
+
 <p align="center">
     <img style="text-align:center" src="../Assets/Functions-1.png" />
 </p>
