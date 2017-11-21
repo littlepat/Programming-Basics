@@ -80,8 +80,8 @@ In this part you will learn how to call a function multiple times, such that you
 </p>
 - [ ] let's repeat this one more time, do you understand what is happening? Why is the number increasing by 3?
 <p align="center">
-    <img style="text-align:center" src="../Assets/Functions-7.png" width="70%" height="70%"/>
+    <img style="text-align:center" src="../Assets/Functions-8.png" width="70%" height="70%"/>
 </p>
 <p align="center">
-    <img style="text-align:center" src="../Assets/Functions-8.png" width="70%" height="70%"/>
+    <img style="text-align:center" src="../Assets/Functions-9.png" width="70%" height="70%"/>
 </p>
