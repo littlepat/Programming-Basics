@@ -108,12 +108,21 @@ In this part we will make use of the loops and conditionals we used before, to s
     <img style="text-align:center" src="../Assets/Functions-loops.png" width="70%" height="70%"/>
 </p>
 
-- [ ] from the **Logic** menu we also select the basic **if** block
-
+- [ ] from the **Logic** menu select the **0 < 0** block and attach it to the while instead where the True is
+- [ ] change the **0 < 0** block such that it compares variable **fruit**, which you can select from the **Variables** menu, with **10**
 <p align="center">
     <img style="text-align:center" src="../Assets/Functions-logic.png" width="70%" height="70%"/>
 </p>
-
 <p align="center">
     <img style="text-align:center" src="../Assets/Functions-10.png" width="70%" height="70%"/>
+</p>
+
+- [ ] let's check the value of the variable to see what number it is, i think it is a 12, am i correct?
+- [ ] from the **Logic** menu we select the basic **if** block
+- [ ] from the **Logic** menu again, select the **0 = 0** block and attach it to the **if** instead where the True is
+- [ ] check if fruit = 12 then show leds with a a happy man as shown
+- [ ] you select the **show leds** block from the **Basic** menu
+
+<p align="center">
+    <img style="text-align:center" src="../Assets/Functions-11.png" width="70%" height="70%"/>
 </p>
