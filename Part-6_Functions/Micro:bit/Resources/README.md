@@ -20,7 +20,7 @@ Lets begin the activity with an introductory function:
 - [ ] To get the **message** with the string go to Advanced then go to Text menu and drag the box with quotations
 
 <p align="center">
-    <img style="text-align:center" src="../Assets/Functions-1.png" width="40%" height="40%"/>
+    <img style="text-align:center" src="../Assets/Functions-1.png" width="70%" height="70%"/>
 </p>
 
 - [ ] To see anything, we now need to call our function
@@ -28,7 +28,7 @@ Lets begin the activity with an introductory function:
 - [ ] Go to **Advanced** and from **Functions** drag the **Call function Hello** block as seen bellow
 
 <p align="center">
-    <img style="text-align:center" src="../Assets/Functions-2.png" width="40%" height="40%"/>
+    <img style="text-align:center" src="../Assets/Functions-2.png" width="70%" height="70%"/>
 </p>
 
 ## Part 2: Function with and variables
@@ -47,5 +47,5 @@ In this part we introduce a new type of function: a function which makes use of 
 - [ ] in the block on the left grag varaibles **pears** and **apples** as seen
 
 <p align="center">
-    <img style="text-align:center" src="../Assets/Functions-3.png" width="40%" height="40%"/>
+    <img style="text-align:center" src="../Assets/Functions-3.png" width="70%" height="70%"/>
 </p>
