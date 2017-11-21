@@ -41,11 +41,40 @@ In this part we introduce a new type of function: a function which makes use of 
     <img style="text-align:center" src="../Assets/Functions-varibles.png" />
 </p>
 
-- [ ] drag the **set item** block and choose to set variable **fruit**
-- [ ] from the **Math** menu go and select the **0 + 0** block
-- [ ] now put the variable **fruit** on the right hand side, and on the left drag another **0 + 0** block
-- [ ] in the block on the left grag varaibles **pears** and **apples** as seen
+- [ ] Drag the **set item** block and choose to set variable **fruit**
+- [ ] From the **Math** menu go and drag the **0 + 0** block and attach it to **set item**
+- [ ] Now put the variable **fruit** on the right hand side, and on the left drag another **0 + 0** block
+- [ ] In the block on the left grag varaibles **pears** and **apples** as seen
 
 <p align="center">
     <img style="text-align:center" src="../Assets/Functions-3.png" width="70%" height="70%"/>
+</p>
+- [ ] From the **basic menu** drag the **show number** block and replace the number with our varaible **fruit** such that it shows in the microbit
+- [ ] We have now created our first complex function, leave this function here, as we will use it going furthr
+
+## Part 3: Calling a complex function multiple times
+In this part you will learn how to call a function multiple times, such that you do not need to repeat the complex operation. We will make use of operations that we have learned in previous classes.
+
+- [ ] From the **Input** menu select the **on button B pressed** block and drag it to the workspace
+- [ ] Now go to the variables menu and select the **set** item block twice, and for each set **pears** and **apples** variables respectively
+- [ ] Set **pears** to 1 and set **apples** to 2
+- [ ] Here we will call our function and see what happens: go to **Advanced** and then go to **Functions** and select the **call function CountMyFruit(fruit)** and drag it in the block with the other as seen
+
+<p align="center">
+    <img style="text-align:center" src="../Assets/Functions-4.png" width="70%" height="70%"/>
+</p>
+
+- [ ] Refresh the microbit and press Button **B**; what is displayed?
+<p align="center">
+    <img style="text-align:center" src="../Assets/Functions-5.png" width="70%" height="70%"/>
+</p>
+- [ ] number 3 is displayed, because the default value for our *fruit* variable is set to 0 and our function calcualtes the value of fruit + ( pears + apples ) which is equal to 0 + ( 1 + 2 ) = 3
+- [ ] lets display a blank screen from the **Basic** menu
+- [ ] now call the function again as you did before, this time what number is displayed?
+- [ ] refresh the microbit before you run your code
+<p align="center">
+    <img style="text-align:center" src="../Assets/Functions-6.png" width="70%" height="70%"/>
+</p>
+<p align="center">
+    <img style="text-align:center" src="../Assets/Functions-7.png" width="70%" height="70%"/>
 </p>
