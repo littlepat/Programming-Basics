@@ -142,4 +142,25 @@ In this part we will make use of the loops and conditionals we used before, to s
 
 ## Part 5: The challenge
 
+We have learned that functions are all about doing an operation on repeat. Let's put this knowlesge to good use. If you would like you can refer back to Loops challenge, because this is similar. We will create a boucing ball again, but this time we will use functions, so the way you build your solution is more important than the result this time.
+
+- When no inputs are pressed the ball is still on the ground,
+- When you press Button A the ball will bounce up and down forever
+- When you press Button B the ball will roll from left to right forever
+- When you press Button B the ball will roll from left to right forever
+- You must use 3 different functions in total
+ - [ ] Start a new empty project under the projects button
+ - [ ] Use a on button A pressed block to start your code with a while loop
+ - [ ] Use the function to describe the up to down movement of the ball and call this function in the while loop
+ - [ ] Use a on button B pressed block to start your code with a while loop
+ - [ ] Use the function to describe the left to  movement of the ball and call this function in the while loop
+ - [ ] Use a on button A+B pressed block to start your code with a repeat loop
+ - [ ] Use the function to describe the left to  movement of the ball and call this function in the while loop
+
+
+Time to test your code:
+
+ When I press the A Button input block, does the ball bounce up and down forever?
+ When I press the B Button input block, does the ball roll side to side forever?
+ When I press the A+B Button input block, does the ball hit all four sides of the micro:bit led square twice?
 
