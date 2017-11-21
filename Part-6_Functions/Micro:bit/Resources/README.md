@@ -3,7 +3,7 @@
 ## Introduction
 
 In this project activity you will learn how to create and use functions with micro:bit. You will learn why functions are useful, and how to use them together with your previous knowledge.
-This time, please read the instructions carefully, as you will not be shown where the different blocks are lockated, but the instructions will tell you this information.
+This time, please read the instructions carefully, as you will not be shown where all the different blocks are located, but the instructions will tell you this information.
 
 ## Part 1: Basic Function
 
